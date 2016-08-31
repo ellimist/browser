@@ -2,7 +2,7 @@
 
 ## unreleased
 
-- Add Stripe to bots.
+- Add Stripe and Netcraft to bots.
 - Add Microsoft Bing bots (adldxbot, bingpreview, and msnbot-media).
 - Match Alipay.
 
